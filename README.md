@@ -41,6 +41,7 @@ graph is where the graphed items show up, the numbers in the corner show your x 
 
 
 camera is wher you input your qr codes or data by hand, it has 4 main areas, the camera itself, data, calcs, and push button
+
 <a href="https://lh3.googleusercontent.com/cUfG2dUXKpn0Zlo0VzS4FMZKfIajTtVkSPp2bL1Rn74ZLxE1gLb3p-1ZKqDnM8SPKD6Oyd8-jZ2cyDU2BecfrleGiBpV9ivHH8ePJgVwfhANhUn9IJrOrpYhrGHdgJJIrYc6_2PW3Q=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/cUfG2dUXKpn0Zlo0VzS4FMZKfIajTtVkSPp2bL1Rn74ZLxE1gLb3p-1ZKqDnM8SPKD6Oyd8-jZ2cyDU2BecfrleGiBpV9ivHH8ePJgVwfhANhUn9IJrOrpYhrGHdgJJIrYc6_2PW3Q=w600-h315-p-k" /> </a>
 
   the camera itself is where you line up your qr codes to scan
@@ -56,3 +57,5 @@ camera is wher you input your qr codes or data by hand, it has 4 main areas, the
 make sure your data is in the correct order and in var-var-var
 
 if you camera isnt opening chech in task maneger that there are no other instances of java running as it will interfere with the camera
+
+create an issue if you need help

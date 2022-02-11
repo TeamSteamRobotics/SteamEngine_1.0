@@ -51,3 +51,8 @@ camera is wher you input your qr codes or data by hand, it has 4 main areas, the
   
   push button pushes the data into a new json file or extends an exsisting one
   
+# troubleshooting
+
+make sure your data is in the correct order and in var-var-var
+
+if you camera isnt opening chech in task maneger that there are no other instances of java running as it will interfere with the camera

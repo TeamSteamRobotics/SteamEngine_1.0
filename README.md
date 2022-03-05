@@ -21,7 +21,7 @@ each team input box is a team you can see on the graph, the first box shows on t
 
 the box after teams is wether you want to see each round individualy or by games played
 
-team input is where you enter the names and order of your input app, if you are using SteamTracker the code is {}, other wise put it in the order of team-rounds-vars-vars-etc
+team input is where you enter the names and order of your input app, if you are using SteamTracker the code is {round-lowerA-lowerT-barsA-barsT-upperA-upperT-missA-missT}, other wise put it in the order of team-rounds-vars-vars-etc
 
 shown is what variable is being shown on the graph
 

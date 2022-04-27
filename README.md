@@ -1,7 +1,7 @@
 # SteamEngine_1.0
 our scouting visualization and creation app to go alongside our android app
 
-#THIS APP HAS BEEN DISCONTINUED!!! USE AT YOUR OWN RISK!!! feel free to use any part of it (if you can understand the spagetti code) just give us credit
+# THIS APP HAS BEEN DISCONTINUED!!! USE AT YOUR OWN RISK!!! feel free to use any part of it (if you can understand the spagetti code) just give us credit
 
 # how to use
 
